@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-judi-terbaik",
+        "command": "slot-judi-terbaik:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-judi-terbaik",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-judi-terbaik:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
